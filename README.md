@@ -17,7 +17,7 @@
 
 ### 📝 What I do
 
-I write hands-on machine learning, data science, and AI tutorials on [Medium](https://ibexorigin.medium.com/), [DataCamp](https://www.datacamp.com/tutorial), [Firecrawl](https://www.firecrawl.dev/blog), and [System Design One](https://newsletter.systemdesign.one/). Find links to all those platforms or my profile there.
+I write hands-on machine learning, data science, and AI tutorials on [Medium](https://ibexorigin.medium.com/), [DataCamp](https://www.datacamp.com/tutorial), [Firecrawl](https://www.firecrawl.dev/blog), and [System Design One](https://newsletter.systemdesign.one/).
 
 - ✍️ I break down complex ML, deep learning, and AI engineering topics into simple words.
 - 🤖 I'm a senior AI engineer and consultant, currently building production voice AI agents and conversational systems.
