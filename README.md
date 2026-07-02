@@ -27,7 +27,7 @@ I write hands-on machine learning, data science, and AI tutorials on [Medium](ht
 ### 📈 My GitHub activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BexTuychiev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" alt="Bex's GitHub stats" />
+  <img height="180em" src="https://bex-github-readme-stats.vercel.app/api?username=BexTuychiev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" alt="Bex's GitHub stats" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ I write hands-on machine learning, data science, and AI tutorials on [Medium](ht
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BexTuychiev&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
+  <img src="https://bex-github-profile-trophy.vercel.app/?username=BexTuychiev&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
