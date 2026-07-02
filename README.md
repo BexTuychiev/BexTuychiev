@@ -35,9 +35,5 @@ I write hands-on machine learning, data science, and AI tutorials on [Medium](ht
 </p>
 
 <p align="center">
-  <img src="https://bex-github-profile-trophy.vercel.app/?username=BexTuychiev&no-frame=true&margin-w=8&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
   <em>Thanks for stopping by — you can connect with me on <a href="https://www.linkedin.com/in/bextuychiev/">LinkedIn</a>.</em>
 </p>
